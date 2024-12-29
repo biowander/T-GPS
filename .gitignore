@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# 其他
+*.zip
+*.log
